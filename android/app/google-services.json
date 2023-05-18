@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "661824475017",
+    "project_id": "jp-grocery",
+    "storage_bucket": "jp-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661824475017:android:5a1e9f2dce34588b735b58",
+        "android_client_info": {
+          "package_name": "com.example.jp_grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661824475017-4b5ln797vgotogu1agh6oplbaeas7pou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-KRQqJ1wudnzhztITLJ_c0PBnGlurxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661824475017-4b5ln797vgotogu1agh6oplbaeas7pou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661824475017:android:2c695092c0bc6cb5735b58",
+        "android_client_info": {
+          "package_name": "com.example.jpgroceroyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661824475017-4b5ln797vgotogu1agh6oplbaeas7pou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-KRQqJ1wudnzhztITLJ_c0PBnGlurxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661824475017-4b5ln797vgotogu1agh6oplbaeas7pou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
